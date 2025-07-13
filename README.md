@@ -143,3 +143,16 @@ By identifying high-performing products, improving transportation methods, and u
 - Targeted marketing strategies
 
 - Cost reduction in logistics
+
+
+## Conclusion
+
+This supply chain analysis offered important insights into
+
+- operational
+
+- manufacturing
+
+- distribution aspects of the business.
+
+By conducting thorough data analysis and creating visualizations, we discovered several key patterns and performance metrics.
