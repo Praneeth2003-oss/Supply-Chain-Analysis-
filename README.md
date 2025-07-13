@@ -73,5 +73,18 @@ In Power Bi, build charts, graphs, and KPIs to visualize the data and understand
 that, build some slicers to make it more user-friendly to customize the charts and graphs.
 
 - Dashboard Interaction [supply-chain-dashboard](https://github.com/Praneeth2003-oss/Supply-Chain-Analysis-/blob/24c57715f1d3cf4c97e2391cd8071c2c8778bfe8/supply%20chain%20analysis%20dashboard.png)
+
+
+Visualizing Key Insights
+
+From the overall analysis, I have discovered some key insights:
+
+- Skincare products are the most profitable, generating significant revenue. Haircare products come next in popularity, followed by cosmetics.
+
+- Carrier C has the highest shipping costs on average, with carrier A as the second-costliest option. Carrier B, on the other hand, is the most affordable choice.
+
+- Among the four transportation modes (air, rail, road, and sea), air transportation is associated with higher shipping costs, while sea transportation offers a more economical solution.
+
+
 ## Dashboard
 ![snapshot_supply_chain_dashboard](https://github.com/Praneeth2003-oss/Supply-Chain-Analysis-/blob/590dbdca4d84bdc8d28f8daf04abc5aab503493c/supply%20chain%20analysis%20dashboard.png)
