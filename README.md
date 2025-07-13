@@ -13,4 +13,4 @@
 - Optimize SKU-level planning and supplier selection.
 
 ## Dataset used
-[supply_chain.csv](https://github.com/Praneeth2003-oss/Supply-Chain-Analysis-/blob/a76d21888c9cea2988415d20e20ee494bb285a65/supply_chain.csv)
+[supply_chain_data.csv](https://github.com/Praneeth2003-oss/Supply-Chain-Analysis-/blob/a76d21888c9cea2988415d20e20ee494bb285a65/supply_chain_data.csv)
