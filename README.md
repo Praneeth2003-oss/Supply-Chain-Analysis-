@@ -39,4 +39,4 @@
 
 
 ## Dashboard
-![snapshot_supply_chain_dashboard](supply_chain_dashboard)
+![snapshot_supply_chain_dashboard](https://github.com/Praneeth2003-oss/Supply-Chain-Analysis-/blob/590dbdca4d84bdc8d28f8daf04abc5aab503493c/supply%20chain%20analysis%20dashboard.png)
