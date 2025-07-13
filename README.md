@@ -39,3 +39,4 @@
 
 
 ## Dashboard
+![snapshot_supply_chain_dashboard](supply_chain_dashboard)
