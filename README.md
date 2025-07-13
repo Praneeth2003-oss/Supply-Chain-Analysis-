@@ -14,8 +14,64 @@ optimize supply chain operations and improve profitability.
 
 - Power Bi
 
+
+## Python Analysis:- 
+
+### Table of Contents:
+
+- Load Dataset
+
+- Import Libraries
+
+- Exploratory Data Analysis
+
+- Checking Null Values and Cleaning Data
+
+- Visualization :
+
+
+## Sales Analysis:
+
+- Analyze the number of products sold and revenue generated to understand sales performance over time.
+
+- Identify customer demographics to determine which groups are purchasing the most products.
+
+- Track availability and stock levels to ensure the right products are in stock when customers are ready to buy.
+
+
+## Operational Analysis:
+
+- Analyze lead times, order quantities, and production volumes to optimize inventory management and reduce stockouts.
+
+- Track manufacturing lead times and costs to identify areas for improvement and cost savings.
+
+- Monitor inspection results and defect rates to identify quality issues and improve manufacturing processes.
+
+
+## Shipping Analysis:
+
+- Analyze costs, transportation modes, and routes to optimize logistics and reduce shipping costs.
+
+- Monitor shipping times, shipping carriers, and modes of transportation to ensure timely delivery to customers.
+
+- Track shipping costs associated with shipping carriers and revenue generated to identify areas for cost savings.
+
+
+## Libraries Used for the Analysis:
+
+Data Manipulation: NumPy, Pandas
+
+Data Visualization: Seaborn, Matplotlib
+
+
 ## Dataset used
 [supply_chain_data](https://github.com/Praneeth2003-oss/Supply-Chain-Analysis-/blob/a76d21888c9cea2988415d20e20ee494bb285a65/supply_chain_data)
+
+
+## Power BI:
+In Power Bi, build charts, graphs, and KPIs to visualize the data and understand it more interactively, along with 
+that, build some slicers to make it more user-friendly to customize the charts and graphs.
+
 - Dashboard Interaction [supply-chain-dashboard](https://github.com/Praneeth2003-oss/Supply-Chain-Analysis-/blob/24c57715f1d3cf4c97e2391cd8071c2c8778bfe8/supply%20chain%20analysis%20dashboard.png)
 ## Dashboard
 ![snapshot_supply_chain_dashboard](https://github.com/Praneeth2003-oss/Supply-Chain-Analysis-/blob/590dbdca4d84bdc8d28f8daf04abc5aab503493c/supply%20chain%20analysis%20dashboard.png)
