@@ -36,3 +36,6 @@
 - KPI Calculation: Calculated fulfillment, stock, defect metrics using DAX formulas.
 
 - Supplier Mapping: Linked SKUs to supplier-wise production for comparison.
+
+
+## Dashboard
