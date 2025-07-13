@@ -130,3 +130,16 @@ Key Performance Indicators (KPIs):
 - Shipping Carrier
 
 - Routes
+
+
+## Business Impact:
+
+By identifying high-performing products, improving transportation methods, and understanding customer demographics, this analysis can directly support:
+
+- Inventory planning
+
+- Supplier and route optimization
+
+- Targeted marketing strategies
+
+- Cost reduction in logistics
