@@ -14,3 +14,12 @@
 
 ## Dataset used
 [supply_chain_data](https://github.com/Praneeth2003-oss/Supply-Chain-Analysis-/blob/a76d21888c9cea2988415d20e20ee494bb285a65/supply_chain_data)
+
+## Key Performance Indicators (KPIs)
+- Revenue (per category and total)
+- Quantity Sold
+- Total SKUs per Category
+- Available Stock
+- Order Fulfillment Rate (%)
+- Average Defect Rate (%)
+- Supplier Contribution per SKU
