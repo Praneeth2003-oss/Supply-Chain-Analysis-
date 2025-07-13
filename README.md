@@ -23,3 +23,5 @@
 - Order Fulfillment Rate (%)
 - Average Defect Rate (%)
 - Supplier Contribution per SKU
+
+- Dashboard Interaction (https://github.com/Praneeth2003-oss/Supply-Chain-Analysis-/blob/24c57715f1d3cf4c97e2391cd8071c2c8778bfe8/supply%20chain%20analysis%20dashboard.png)
